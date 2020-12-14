@@ -1,4 +1,6 @@
 ## UAS SISTEM TEMU KEMBALI INFORMASI (STKI)
+## JIKA PDF DI ATAS ERROR/CORRUPT, DOWNLOAD DI:
+https://drive.google.com/file/d/1Ons7VETxmzX0wBp9Pd11hEvOa8ln7Ksl/view?usp=sharing
 
 Hasil Coding dari Jupyter Notebook
 
